@@ -191,6 +191,7 @@ h1 + p {
 
 @media screen and (max-width: 499px) {
   .underline-img {
+    z-index: 0;
     position: absolute;
     bottom: 16px;
     left: 0px;
